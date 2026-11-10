@@ -1,0 +1,8 @@
+{
+  "name": "Karatina PHY 401: Compressor Thermodynamics Lab & Design Optimizer",
+  "description": "Interactive thermodynamic workbench and computational design tool for Karatina University PHY 401 Thermal Physics II. Simulates isothermal, isentropic, and actual multi-stage air compression, intermediate pressure optimization, cooler entropy generation, 2D feasibility mapping, and 5,000-sample Monte Carlo uncertainty analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
